@@ -1,0 +1,12 @@
+cd "nome da pasta"
+cd .. voltar uma pasta
+ls listar o que esta dentro de uma pasta
+ls -a lista todos os arquivos até os ocultos
+mkdir criar uma nova pasta
+touch serve para criar um arquivo vazio
+ctrl + l limpa o terminal
+
+
+
+
+
